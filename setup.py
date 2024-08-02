@@ -13,11 +13,11 @@ with open('README.md', encoding='utf-8') as f:
     long_description = f.read()
 setup(
     name=package_name,
-    version='0.0.1',
+    version='0.0.6',
     description='Redesigned the cut command to be more convenient.',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/ntk01/cut-util',
+    url='https://github.com/ntk01/command-util',
     author='ntk01',
     author_email='n.taku.law@gmail.com',
     license='MIT',

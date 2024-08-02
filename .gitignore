@@ -1,3 +1,6 @@
+build/
 venv/
 dist/
 .pypirc
+*.egg-info/
+cututil/__pycache__/
